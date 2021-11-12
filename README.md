@@ -1,6 +1,6 @@
 ### Olá, eu sou o Gabriel Murta
 
-- 🌱 Estudando Python e Flutter
+- 🌱 Estudando Python, Flutter e Angular
 - 💬 Me pergunte sobre Star Wars
 - 😄 Pronomes: Ele/dele
 
