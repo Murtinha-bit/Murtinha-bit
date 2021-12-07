@@ -4,7 +4,7 @@
 - 💬 Me pergunte sobre Star Wars
 - 😄 Pronomes: Ele/dele
 
-<div style="float:left"><br>
+<div style="padding-left:40px"><br>
   <a href="https://github.com/Murtinha-bit">
   <img height="200em" width="500em" src="https://github-readme-stats.vercel.app/api?username=Murtinha-bit&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <br>
