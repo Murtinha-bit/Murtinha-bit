@@ -4,11 +4,12 @@
 - 💬 Me pergunte sobre Star Wars
 - 😄 Pronomes: Ele/dele
 
-<div style="float:left">\<br>
+<div style="float:left"><br>
   <a href="https://github.com/Murtinha-bit">
   <img height="200em" width="500em" src="https://github-readme-stats.vercel.app/api?username=Murtinha-bit&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img height="200em" width="500em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Murtinha-bit&layout=compact&langs_count=7&theme=radical&"/>
 </div>
+ <div>_____________________________________</div>
 <div style="float:left"><br>
   <img align="center"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
