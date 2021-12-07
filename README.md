@@ -6,7 +6,6 @@
 
 <div>
   <a href="https://github.com/Murtinha-bit">
-  <br>
   <img aling="center" height="200em" width="500em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Murtinha-bit&layout=compact&langs_count=7&theme=radical&"/>
 </div>
 <div><br>
