@@ -1,5 +1,3 @@
-### Olá, eu sou o Gabriel Murta
-
 <a href="https://github.com/Murtinha-bit">
 <img aling="left" height="200em" width="350em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Murtinha-bit&layout=compact&langs_count=7&theme=radical&"/>
 <div><br>
